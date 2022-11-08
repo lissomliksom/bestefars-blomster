@@ -1,5 +1,5 @@
-import Header from './components/Header'
-import Gallery from './components/Gallery'
+import Header from "./components/Header";
+import Gallery from "./components/Gallery";
 
 const App = () => {
   return (
@@ -8,7 +8,6 @@ const App = () => {
       <Gallery />
     </div>
   );
-
-}
+};
 
 export default App;
